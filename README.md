@@ -1,4 +1,4 @@
-# project-yue-zhiqing
+# Raft-Message-Queue
 
 * The project is by Yue Zhou and Zhiqing Pan.
 * The files for server nodes are in [src](/src)
